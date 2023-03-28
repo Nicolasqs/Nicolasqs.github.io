@@ -1,0 +1,39 @@
+body{background-color: #EABEB4;
+	font-size: 20px;
+}
+table{background-color: #E3EAE2;}
+a{color: darkorange;
+	font-size: 25px;
+}
+.yellow{
+	color: green;
+	font-size: 30px;
+}
+p{
+	color: #313131;
+	width: 500px;
+	margin: 4px 7px;
+	padding: 7px;
+	border: 5px;
+}
+@font-face{
+	font-family: themillion;
+	src: url(Letra.ttf);
+}
+h4{
+	color: #D5F1B8;
+	font-size: 35px;
+	font-family: themillion;
+}
+selector{
+	font-style: normal italic oblique;
+}
+.normal{
+	font-style: normal;
+}
+.italic{
+	font-style: italic;
+}
+.oblique{
+	font-style: oblique;
+}
